@@ -17,3 +17,6 @@ void main(){
   util.fun(square);
 }
 //3.2.1. //3.3.3. //1.1.1
+
+Java resolves overloaded methods at compile time based on the static type of the reference, not the runtime object type. This is called static polymorphism/Method Overloading
+3.2.1
