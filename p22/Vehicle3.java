@@ -26,3 +26,6 @@ execute(List<Vehicle> vehicles){
         ....
     }
 }
+
+Type check
+Downcasting
