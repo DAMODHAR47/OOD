@@ -20,3 +20,13 @@ for(Vehicle vehicle : vehicles) {
     }
     vehicle.stop();    
 }
+
+
+SRP
+OCP
+LSP
+DIP
+High Coupling
+Switch with type check
+
+
