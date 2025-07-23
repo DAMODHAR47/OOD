@@ -28,4 +28,4 @@ execute(List<Vehicle> vehicles){
 }
 
 Downcasting is fixed
-Typecasting is still present
+Type check is still present
