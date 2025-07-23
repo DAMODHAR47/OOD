@@ -38,3 +38,12 @@ execute(List<Vehicle> vehicles){
         vehicle.stop();
     }
 }
+
+Below were addressed:
+SRP
+OCP
+LSP
+DIP
+High Coupling
+Type check
+Down casting
