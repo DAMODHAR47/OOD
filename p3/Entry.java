@@ -36,3 +36,13 @@ public class Entry {
 		
 	}
 }
+
+Migrate from sql to oracle
+
+difficult
+tight coupling 
+
+
+loosly couple client code from library code
+
+Think about client first , TDD when writing library
