@@ -20,3 +20,6 @@ public class Entry {
 		
 	}
 }
+
+
+Added DI
