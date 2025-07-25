@@ -59,3 +59,6 @@ public class Entry {
 }
 
 Interface + DI
+
+program to interface is loosly coupled.
+Same as Abstract Factory
