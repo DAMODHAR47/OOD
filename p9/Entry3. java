@@ -29,3 +29,5 @@ public class Entry {
 		
 	}
 }
+
+Domain knows the UI. (Acccount and UI component) 1 is better than this (3)
