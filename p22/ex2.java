@@ -18,3 +18,5 @@ void main(){
   DoJob(new Square());
 }
 //1. //2 //3
+
+1 --due to static polymorphism 
