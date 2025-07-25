@@ -29,3 +29,7 @@ public class PostGres{
 		//logic
 	}
 }
+
+I want to toggle between different implementations having different method signatures.
+
+Use wrappers
