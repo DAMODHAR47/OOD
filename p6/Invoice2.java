@@ -61,3 +61,7 @@ public class Invoice {
 class InvoiceLineItem{
    ...
 }
+
+
+Coupling: Invoice and tax (2 units from behavior and testing propective)
+DDD: Invoice and tax belongs to different aggregates
